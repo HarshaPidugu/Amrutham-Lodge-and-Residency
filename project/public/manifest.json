@@ -1,0 +1,16 @@
+{
+  "name": "Amrutham Lodge & Residency",
+  "short_name": "Amrutham Lodge",
+  "description": "Premium accommodation in Badvel, Andhra Pradesh with modern amenities and warm hospitality",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
